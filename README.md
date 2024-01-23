@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on arcade software and hardware.
+- 🌱 I’m currently learning Jamma board configuration.
+- 💬 Ask me about arcade stuff.
+- 📫 How to reach me: @mold_boy on X.
+
 <!--
 **mold-boy/mold-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
